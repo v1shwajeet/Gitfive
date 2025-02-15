@@ -145,7 +145,7 @@ $ gitfive user mxrch --json mxrch_data.json
 
 **Have fun 🥰💞**
 
-## Video demo
+## Video demo for powershell
 
 https://github.com/mxrch/GitFive/assets/17338428/28a22d30-f651-483f-84e8-7fc6e00b831f
 
