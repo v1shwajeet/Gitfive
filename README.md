@@ -145,7 +145,7 @@ $ gitfive user mxrch --json mxrch_data.json
 
 **Have fun 🥰💞**
 
-## Video demo for powershell
+## Video demo for Powershell
 
 https://github.com/mxrch/GitFive/assets/17338428/28a22d30-f651-483f-84e8-7fc6e00b831f
 
@@ -157,19 +157,3 @@ This tool is for educational purposes only, I am not responsible for its use.
 
 The use of this tool in an automated paid service / software is strictly forbidden without my personal agreement.\
 Please use it only in personal, criminal investigations, or open-source projects.
-
-## Thanks
-
-- [novitae](https://github.com/novitae) for being my Python colleague
-- [rayanlecat](https://twitter.com/rayanlecat), [ABH](https://twitter.com/ABHsec), [22sh](https://twitter.com/0x22sh), [BlackWasp](https://twitter.com/BlWasp_), [Tartofraise](https://twitter.com/_Tartofraise), [mpgn](https://twitter.com/mpgn_x64), [M3SS](https://twitter.com/0x4D335353) and [n1nj4sec](https://twitter.com/n1nj4sec) for the beta test
-- The HideAndSec team 💗 (blog : https://hideandsec.sh)
-
-## Sponsors
-
-Thanks to these awesome people for supporting me !
-
-<!-- sponsors --><a href="https://github.com/BlWasp"><img src="https://github.com/BlWasp.png" width="50px" alt="BlWasp" /></a>&nbsp;&nbsp;<a href="https://github.com/gingeleski"><img src="https://github.com/gingeleski.png" width="50px" alt="gingeleski" /></a>&nbsp;&nbsp;<!-- sponsors -->
-
-\
-You like my work ?\
-[Sponsor me](https://github.com/sponsors/mxrch) on GitHub ! 🤗
